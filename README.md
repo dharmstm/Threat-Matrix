@@ -163,7 +163,7 @@ Open `ThreatMatrix.html` in your browser.
 
 ### Option 3: GitHub Pages (Live Demo)
 
-Visit: [https://dharmendrastm.github.io/ThreatMatrix](https://dharmendrastm.github.io/Threat-Matrix)
+Visit: [https://dharmstm.github.io/ThreatMatrix](https://dharmstm.github.io/Threat-Matrix)
 
 ---
 
@@ -354,9 +354,9 @@ Passionate about cybersecurity, ethical hacking, and building tools that empower
 
 ## 📈 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/dharmendrastm/ThreatMatrix?style=social)
-![GitHub forks](https://img.shields.io/github/forks/dharmendrastm/ThreatMatrix?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/dharmendrastm/ThreatMatrix?style=social)
+![GitHub stars](https://img.shields.io/github/stars/dharmstm/ThreatMatrix?style=social)
+![GitHub forks](https://img.shields.io/github/forks/dharmstm/ThreatMatrix?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/dharmstm/ThreatMatrix?style=social)
 
 ---
 
