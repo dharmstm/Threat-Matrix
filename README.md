@@ -6,7 +6,7 @@
 
 **Complete security research platform combining CVSS v3.1 scoring with advanced vulnerability analytics.**
 
-Created by **Dharmendra Kumar** ([dharmendrastm](https://github.com/dharmendrastm)) for security researchers, penetration testers, and bug bounty hunters worldwide.
+Created by **Dharmendra Kumar** ([dharmstm](https://github.com/dharmastm)) for security researchers, penetration testers, and bug bounty hunters worldwide.
 
 ---
 
